@@ -8,7 +8,7 @@ Tested with Crucible 3.2.4.
 
 ### Google Chrome
 
-1. Copy the [compiled code](https://raw.github.com/michaelhogg/cruciate/master/build/cruciate.js) to the clipboard.
+1. Copy the [compiled code](https://raw.github.com/johnfoconnor/cruciate/master/build/cruciate.js) to the clipboard.
 2. Right-click in Chrome's Bookmarks Bar, and select **Add Page**.
 3. In the **Name** field, type "Cruciate".
 4. In the **URL** field, paste the compiled code.
@@ -16,7 +16,7 @@ Tested with Crucible 3.2.4.
 
 ### Firefox
 
-1. Copy the [compiled code](https://raw.github.com/michaelhogg/cruciate/master/build/cruciate.js) to the clipboard.
+1. Copy the [compiled code](https://raw.github.com/johnfoconnor/cruciate/master/build/cruciate.js) to the clipboard.
 2. Right-click in Firefox's Bookmarks Toolbar, and select **New Bookmark**.
 3. In the **Name** field, type "Cruciate".
 4. In the **Location** field, paste the compiled code.
